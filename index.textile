@@ -1,0 +1,26 @@
+---
+layout: page
+title: Home
+---
+
+h1. Introduction
+
+E2M is an advanced wrapper for Terraria that utilizes bytecode manipulation to provide access to a variety of commands, cheats, and features. The central focus of E2M is its in-game console. Opening the console freezes the game, so that the player cannot get attacked while entering commands. Commands are then entered, often with named arguments to specify advanced parameters when performing actions such as spawning items.
+
+h2. Example Features
+
+* Macros
+* Noclip flight
+* Mob spawning, with property customization
+* Item spawning, with property customization
+* Custom keybindings
+* Teleportation to other players in multiplayer
+* Mass-editing
+* God mode
+* Buff toggling
+
+These are just examples, however; this is by no means a complete list of features!
+
+h1. Notice about Multiplayer Support
+
+E2M is designed for singleplayer, not multiplayer.  While some of its features might work in multiplayer, this compatibility is unofficial, and will not be supported, with the exception of a few special features (such as teleportation to other players).

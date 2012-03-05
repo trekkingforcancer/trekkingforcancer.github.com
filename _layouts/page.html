@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Language" content="en-us" />
+		<title>E2M: {{ page.title }}</title>
+		<style type="text/css">
+			/* <![CDATA[ */
+			
+			body
+			{
+				font-family: Calibri, sans-serif;
+				color: black;
+				font-size: 12pt;
+				padding: 0;
+				margin: 0;
+				background-color: black;
+				z-index: 0;
+				overflow-y: scroll;
+				overflow-x: hidden;
+				min-width: 800px;
+				min-height: 400px;
+			}
+			
+			#background-image
+			{
+				z-index: 10;
+				min-width: 100%;
+				min-height: 100%;
+				position: fixed;
+				margin: 0 -50%;
+				left: 50%;
+				display: block;
+			}
+			
+			#background-overlay
+			{
+				z-index: 20;
+				position: fixed;
+				width: 600px;
+				margin: 0 -300px;
+				left: 50%;
+				height: 100%;
+				background-color: white;
+				opacity: .70;
+				filter: alpha(opacity=70);
+				border-left: solid 1px black;
+				border-right: solid 1px black;
+			}
+			
+			#content-wrapper
+			{
+				z-index: 30;
+				position: absolute;
+				width: 550px;
+				margin: 0 -275px;
+				left: 50%;
+			}
+			
+			#title
+			{
+				font-size: 24pt;
+				font-weight: bold;
+				border-bottom: solid 1px black;
+			}
+			
+			h1 h2 h3 h4 h5 h6
+			{
+				font-weight: bold;
+				padding: 1em 0 .5em 0;
+				margin: 0;
+			}
+			
+			h1
+			{
+				font-size: 22pt;
+				border-bottom: solid 1px gray;
+			}
+			
+			h2
+			{
+				font-size: 20pt;
+			}
+			
+			h3
+			{
+				font-size: 18pt;
+			}
+			
+			h4
+			{
+				font-size: 16pt;
+			}
+			
+			h5
+			{
+				font-size: 14pt;
+			}
+			
+			h6
+			{
+				font-size: 12pt;
+			}
+			
+			a
+			{
+				color: #44d;
+				text-decoration: underline;
+			}
+			
+			a:hover
+			{
+				color: #22d;
+				text-decoration: none;
+			}
+			
+			#menu
+			{
+				margin: 10px 0 30px 0;
+				border-top: solid 1px gray;
+				border-bottom: solid 1px gray;
+				white-space: nowrap;
+			}
+			
+			#menu > *
+			{
+				display: inline-block;
+				margin-right: 20px;
+			}
+			
+			/* ]]> */
+		</style>
+	</head>
+	<body>
+		<img id="background-image" src="images/background.png" />
+		<div id="background-overlay"></div>
+		<div id="content-wrapper">
+			<div id="title">E2M: {{ page.title }}</div>
+			<div id="menu">
+				<a href="/E2M/">Home</a>
+				<a href="legal">Legal</a>
+				<a href="abuse">Abuse</a>
+				<a href="help">Help</a>
+				<a href="chat">Chat</a>
+				<a href="source">Source</a>
+				<a href="download">Download</a>
+			</div>
+			<div id="content">{{ content }}</div>
+		</div>
+	</body>
+</html>

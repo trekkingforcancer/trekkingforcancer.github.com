@@ -1,0 +1,28 @@
+---
+layout: page
+title: Obtaining the Source Code
+---
+
+h1. Getting the Source Code
+
+"GitHub Project Page":https://github.com/Zenexer/E2M
+
+If you do not know what to do from there, you probably should not be messing with the source code.
+
+h1. Contributing Your Changes
+
+We use the typical GitHub methodology.  Fork the master branch, push your commits to your own repository, then make a pull request to merge your fork back into the master branch.
+
+You will need to be using Git and GitHub to contribute changes.  I will not accept changes/patches in any other form.  Fork, modify, and make a pull request.  Do not send me a patch.  It promptly be fed to my rabbit.
+
+h2. Coding Style
+
+Tabs, not spaces.  No exceptions.
+
+Other style preferences should be self-evident.  Follow them or have your pull request denied.  Proper styling is not optional.
+
+h2. Sounds like too much work.  Never mind.
+
+Then at least file a bug report (doubles as means for feature requests) so someone else can consider contributing the changes.
+
+Besides, if that sounds hard, you probably would not have done a very good job of programming your changes anyway, and I would have denied the pull request as a result.

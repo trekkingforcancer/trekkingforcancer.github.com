@@ -1,0 +1,42 @@
+---
+layout: page
+title: Legal Information
+---
+
+h1. Terms of Use
+
+Thou shalt not abuse E2M, as defined on the "About" page of this site.
+
+h1. License
+
+Paul Buonopane (Zenexer) reserves all rights to the intellectual property associated with E2M.
+
+Paul Buonopane hereby grants permission to the public to use, modify, and distribute E2M and its source code for non-commercial and legal use, provided that any modifications are made publicly available under this license.  Code based loosely on the plugin demo does not need to be released under this license, or at all, but source code must be supplied to Paul Buonopane under a Non-Disclosure Agreement upon request.
+
+Paul Buonopane reserves the right to modify this license without notice.
+
+Earth2Me and E2M are trademarks of Earth2Me, LLC.  Terraria is a trademark of Re-Logic.  Earth2Me and Re-Logic are unaffiliated.
+
+h1. Regarding Bytecode Manipulation
+
+The short answer to the accusations of copyright infringement often made against E2M have no merit, as E2M neither modifies Terraria, nor redistributes any part of Terraria.  In addition, it certainly is not developed with the intent to enable such illegal activities, thereby making contributory infringement an invalid accusation, as well.
+
+Of course I would say that, right?  I just want to defend myself.  Well, actually, this is the reason I chose bytecode manipulation.  I attempted several other methods first, and was unsatisfied with the legality of the resulting product.  There was either too much gray area or it was downright copyright infringement.  Bytecode manipulation eliminates this gray area.
+
+Bytecode manipulation is extraordinarily tedious.  That is why, as far as I know, E2M is the only public mod/wrapper to use it.  Others would rather take the chance and risk being brought up on legitimate copyright infringement charges.  I do not take chances with my applications.  I do things right the first time.  I put in a significant amount of effort to use bytecode manipulation.
+
+h2. On Reverse Engineering
+
+I never need to decompile Terraria to use bytecode manipulation.  I use it in its original, compiled form, translating the bytes to opcodes.  Thus, this gray area does not apply to me.  I never actually need to decompile Terraria or otherwise modify it in an attempt to obtain the code from which it was generated.
+
+h2. A More Technical Description
+
+CLR implementations, such as Microsoft .NET CLI, compile code twice.  The first round is called the ahead-of-time (AOT) compilation.  This results in the EXE that lands on your computer.  When you run this EXE, a compiler on YOUR computer recompiles the program to optimize and translate it for your specific hardware.  This is called just-in-time (JIT) compilation.
+
+When E2M runs, it adds a third compilation step in between the AOT and JIT compilations: an intermediate optimization and behavior alteration.  In essence, it becomes part of the JIT process.  Thus, it incorporates itself such that any of its operations are made in the course of a necessary compilation of Terraria, as is required for Terraria to run properly.
+
+In this process, however, it changes what the JIT compiler sees.  This has several effects.  First, it means less effort is required of the JIT compiler, as E2M has already performed some of its preliminary operations in an AOT-like manner.  It can also correct some types of mistakes possibly made by the AOT compiler that could be detrimental to performance.  Finally, it reads Terraria "with an accent".  That is, it does not quite alter Terraria--Terraria remains in its original AOT form--but it alters its behavior as understood by the JIT compiler.
+
+By this point, however, Terraria has been processed so heavily by your computer that it no longer represents the original "image" distributed as "Terraria.exe".  This would happen as a matter of necessity with or without E2M.  It has been used to generate behaviors--various logical operations, tasks, and responses--that your computer hardware can understand.  While no alterations are actually made at this point, it is worth noting that the generated content is a result of using Terraria.exe, and does not actually represent its intellectual property necessarily.  It is also worth noting that this generated content is computer-specific, and is of no use to any other computer.
+
+Computer programs are copyright-protected as works of literature.  It is that EXE in its original form--that original set of bytecodes--that is protected by copyright law.  That is the intellectual property.  The behaviors that they define are not.  The behaviors of computer programs can only be protected by patents.  Copyright law does not cover abstract intellectual property, such as behaviors.

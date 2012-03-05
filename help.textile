@@ -3,10 +3,3 @@ layout: page
 title: Help and Support
 ---
 
-h1. The Wiki
-
-The first place you want to look is "the wiki":https://github.com/Zenexer/E2M/wiki/_pages.  This is really a required step in starting off with E2M.
-
-h1. Live Support
-
-Click the "Chat" link on the menu above to get live support from E2M developers, contributors, and users.  Note that this chat is not dedicated to E2M, so do not expect all the users there to know what E2M is.

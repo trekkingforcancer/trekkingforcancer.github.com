@@ -3,26 +3,3 @@ layout: page
 title: Downloading and Installing
 ---
 
-h1. Latest ZIP Download
-
-You can download a ZIP archive of the latest build "here":https://github.com/downloads/Zenexer/E2M/Release.zip.  Should this link for some reason be broken, the list of all available downloads is available "on GitHub":https://github.com/Zenexer/E2M/downloads.  (The Download as ZIP and Download as TAR buttons are not for the compiled builds; they are for the source code.  You want the list below that.)
-
-h1. Installation
-
-Installation is as simple as extracting the entire ZIP archive.  It does not matter to where you extract it, as long as you give it a dedicated folder.  You should NOT extract it to your Terraria folder, as this could interfere with Terraria.  Remember, this is a wrapper, not a mod: the destinct difference is that it never actually modifies Terraria or its files.
-
-h1. Running
-
-Double-click E2M.exe.  That is usually all you need to do.  A black box with light-gray text that looks like a command prompt should pop up and show some text indicating what E2M is doing behind the scenes.  Most of it will be unintersting, but it can useful to developers if you run into problems.
-
-You will definitely want to click the "Help" link above to get started, though, or you will likely ruin your character/world.  E2M does not have the typical commands that you might expect.  Even when the names are similar, the syntax is almost always different.
-
-h2. If you are prompted to enter Terraria's location...
-
-...you either installed Steam/Terraria to an unusual location, or manually moved one/both of them.  This constitutes a BAD IDEA.  Undo whatever you did or redo it properly, unless you are tech-savvy enough to know what to enter at this point.
-
-Common causes of this include:
-* Installing Steam to a secondary hard drive.  Never install programs to a secondary hard drive unless you know how to fully relocate your Program Files folder(s).
-* Moving the Steam folder from "Program Files (x86)" to "Program Files" on an x64 or IA64 version of Windows.  It was installed to "Program Files (x86)" for a reason.  Leave it there.  It is a different type of program than those in "Program Files" and needs to remain separate.  (Other versions of Windows do not have "Program Files (x86)" folder, so this is not an issue.)
-* Pirating Terraria.  If you did not pay for Terraria, this is you.  I do not care what your reason is; I am not helping you.
-* Moving Terraria because you use other mods that remove the necessity for Steam.  True "mods" are illegal.  Wrappers are not.  Not to mention, some popular mods out there have done quite a bit to violate the trust and support of Re-Logic, the community, and myself.

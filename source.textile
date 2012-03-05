@@ -1,5 +1,0 @@
----
-layout: page
-title: Obtaining the Source Code
----
-

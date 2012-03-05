@@ -16,11 +16,10 @@
 				padding: 0;
 				margin: 0;
 				background-color: #ccc;
-				background-attachment:
 				z-index: 0;
 				overflow-y: scroll;
 				overflow-x: hidden;
-				min-width: 800px;
+				min-width: 1000px;
 				min-height: 400px;
 			}
 			
@@ -39,7 +38,7 @@
 			{
 				z-index: 20;
 				position: fixed;
-				width: 600px;
+				width: 800px;
 				margin: 0 -300px;
 				left: 50%;
 				height: 100%;
@@ -54,7 +53,7 @@
 			{
 				z-index: 30;
 				position: absolute;
-				width: 550px;
+				width: 750px;
 				margin: 0 -275px;
 				left: 50%;
 			}
@@ -137,15 +136,14 @@
 		<img id="background-image" src="images/background.png" />
 		<div id="background-overlay"></div>
 		<div id="content-wrapper">
-			<div id="title">E2M: {{ page.title }}</div>
+			<div id="title">Trekking for Cancer: {{ page.title }}</div>
 			<div id="menu">
-				<a href="/E2M/">Home</a>
-				<a href="legal">Legal</a>
-				<a href="abuse">Abuse</a>
-				<a href="help">Help</a>
-				<a href="chat">Chat</a>
-				<a href="source">Source</a>
-				<a href="download">Download</a>
+				<a href="/">Home</a>
+				<a href="about">About</a>
+				<a href="trek">Trek</a>
+				<a href="itinerary">Itinerary</a>
+				<a href="map">Map</a>
+				<a href="contact">Contact</a>
 			</div>
 			<div id="content">{{ content }}</div>
 		</div>

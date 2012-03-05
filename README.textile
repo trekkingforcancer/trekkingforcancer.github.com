@@ -1,0 +1,1 @@
+Licensed under BSD 2-clause license.  Copyright (c) 2012 Louis H. Jacques.  All rights reserved.

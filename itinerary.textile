@@ -3,3 +3,5 @@ layout: page
 title: Itinerary
 ---
 
+Day 1 of the Itinerary is April 3, 2012
+Link to Himalayanglacier.com

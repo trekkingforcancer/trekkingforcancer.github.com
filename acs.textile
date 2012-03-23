@@ -1,6 +1,6 @@
 ---
 layout: page
-title: American Cancer Society
+title: ACS
 ---
 
 This year hundreds of thousands will hear the words "you have cancer," and there is a good chance that some of them will be people that we know and love.  I have chosen to fight back against this disease and to help make a difference by supporting the American Cancer Society's mission to eliminate cancer as a major health problem.  The American Cancer Society (ACS) aims to save lives by preventing cancer, and diminish suffering from cancer, through research, education, advocacy, and service.

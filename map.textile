@@ -3,4 +3,6 @@ layout: page
 title: Map
 ---
 
-Link to Himalayanglacier.com
+%{text-align:center}Map provided by "HimalayanGlacier.com":http://www.himalayanglacier.com/.  Click image to view original.%
+
+%{text-align:center}!/images/map.png!:http://www.himalayanglacier.com/map.php?products_id=1%

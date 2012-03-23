@@ -6,3 +6,13 @@ title: Home
 h2. Welcome the to Trekking for Cancer Website
 
 In 2011, Louis Jacques contracted with the Himalayan Glacier Trekking LLC to be part of an Expedition that begins in Kathmandu, Nepal on April 3, 2012.  The expedition is to be a 19-day trek, through the Mount Everest Base Camp at 17,462 feet, climaxing at Kala Patthar at 18,192 feet, and returning to Kathmandu, Nepal.
+
+h2. American Cancer Society
+
+The American Cancer Society is the motive and purpose behind this trek.  The organization provides support to individuals with cancer, their loved ones, and the research and education that helps prevent and cure the disease.  With your help, the fight against cancer is not a hopeless battle.  You make a difference.  The first step is an easy one: if you are interested, you can read more about the American Cancer Society's connection to this adventure on "the ACS page":/acs, or you can "donate directly to ACS":/donate.
+
+h2. Daily Log
+
+Once the trek begins, check back here for the latest logbook entry.
+
+%{text-align:center}!/images/lou-medium.png(Picture of Lou)!:/images/lou.jpg%

@@ -3,3 +3,12 @@ layout: page
 title: About
 ---
 
+This website has a twofold purpose.
+
+h2. First
+
+...is to allow supporters of Lou to keep up-to-date with the daily progress of his trek to the Mount Everest Base Camp and on to Kala Patthar, elev. 18,192 ft.
+
+h2. Second
+
+...is to allow supporters the opportunity to donate to the American Cancer Society as part of Lou's effort to raise money for Cancer Research with his Trek to Mount Everest Base Camp.

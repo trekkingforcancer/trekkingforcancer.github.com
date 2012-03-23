@@ -3,5 +3,10 @@ layout: page
 title: The Trek
 ---
 
-Himalayan Glacier Trekking LLC 19 day trek to Everest Base Camp.
-Link the Himalayanglacier.com 19 day trek to Everest Base Camp
+h2. A 19 Day Trek
+
+Himalayan Glacier Trekking, LLC offers "a 19-day trek to the Everest Base Camp (EBC)":http://himalayanglacier.com/trekking-in-nepal/1/everest-base-camp-trek.htm.  As they describe the adventure "on their website":http://himalayanglacier.com/trekking-in-nepal/1/everest-base-camp-trek.htm:
+
+bq. Nowhere in the world is it more spectacular than in the Everest region. It's where four of the world's six tallest peaks Mount Everest, Lhotse, Makalu, and Cho Oyu rise above everything else, crowning the towering ridges that straddle the forbidding Himalayans. The Everest Base Camp trek is the grandest walk in the land of the Himalayas. Trekking through the Everest region offers astounding mountain views, an opportunity to take a glimpse into the life of world famous climbers (the Sherpas), a chance to survey around a world heritage site (Sagarmatha National Park) that hosts variety of Himalayan floras and faunas, an opportunity to explore the highest Buddhist monasteries in the world and of course the trip takes us to the Everest Base Camp itself.  It's an opportunity to trek where Sir Edmund Hillary and Tenzing Norgay set off on their epic journey in 1953. But best of all we get to see Everest, the greatest accomplishment of earth, while witnessing all its power and grace up close and personal.
+
+bq. © 1992-2011 All rights reserved to "Himalayan Glacier Trekking":http://www.himalayanglacier.com/

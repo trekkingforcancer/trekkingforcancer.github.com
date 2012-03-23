@@ -1,0 +1,10 @@
+---
+layout: page
+title: Donate
+---
+
+All donations go directly to the American Cancer Society.  You can donate online via "the ACS website":http://main.acsevents.org/site/TR/TeamACS/TACSFY10National?px=26487849&pg=personal&fr_id=27330.
+
+*"Click here":https://secure3.convio.net/tacs/site/Donation2?idb=1792399601&df_id=1007021&FR_ID=27330&PROXY_ID=26487849&PROXY_TYPE=20&1007021.donation=form1* to go straight to the donation page, or "here":http://main.acsevents.org/site/TR/TeamACS/TACSFY10National?px=26487849&pg=personal&fr_id=27330 to go to the pre-donation information page.
+
+If you cannot donate online, you can also "mail in a contribution":http://main.acsevents.org/site/TRGiftForm?fr_id=27330&px=26487849.

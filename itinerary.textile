@@ -3,5 +3,36 @@ layout: page
 title: Itinerary
 ---
 
-Day 1 of the Itinerary is April 3, 2012
-Link to Himalayanglacier.com
+h2. Start Date
+
+Departure date is Aprile 2, 2012.
+
+Day 1 of the itinerary is April 3, 2012.
+
+h2. Altitude Chart
+
+!/images/altitude-chart.png(Altitude Chart)!:http://www.himalayanglacier.com/trekdetail/1/nepal-trekking.htm#itinerary_altitude
+
+h2. Day-by-Day Schedule
+
+For a more detailed schedule, visit "the Himalayan Glacier website":http://www.himalayanglacier.com/trekdetail/1/nepal-trekking.htm#d2d.
+
+# *Kathmandu*: Arrival (1,300 m/4,264 feet)
+# Kathmandu: *Sightseeing and Trek Preparation*
+# Kathmandu to *Lukla* to *Phakding* (2,652m/8,700ft): 3-4 hours trek (Trekking times only)
+# Phakding to *Namche Bazaar* (3,440 m/11,280 ft): 5-6 hrs
+# Namche Bazaar: *Rest day*
+# Namche Bazaar to *Khumjung* (3,810 m/12,500 ft): 4 hrs
+# Khumjung to *Phorse Village* (3,800 m/12,470 ft): 5-6 hrs
+# Phorse Village to *Dingboche* (4,360 m/14,300 ft): 6-7 hrs
+# Dingboche: *Rest Day*
+# Dingboche to *Duglha* (4,600 m/15,090 ft): 3-4 hrs 
+# Duglha to *Lobuche* (4940 m/16,207 ft)s: 2-4 hrs
+# Lobuche to *Gorak Shep* (5,170 m/16,961 ft) to *Everest Base Camp* (5,364 m/17,594 ft) [and/or *Kala Patthar* (5,545 m/18,192 ft)] to *Gorak Shep*:  8-9 hrs
+# *Gorak Shep* to *Kala Patthar* (5,545 m/18,192 ft) [or *Everest Base Camp* (5,364 m/17,594 ft)] to *Pheriche* (4,280 m/14,070 ft): 8-9 hrs
+# Pheriche to *Tengboche* (3,860 m/12,660 ft): 5-6 hrs
+# Tengboche to *Namche Bazaar*: (3440 m/11,280 ft): 5-6 hrs
+# Namche Bazaar to *Phakding* (2,652 m/8,700 ft): 5-6 hrs
+# Phakding to *Lukla* (2,800 m/9,186 ft): 3-4 hrs
+# Lukla to *Kathmandu*
+# Kathmandu: *Farewell*
